@@ -1,4 +1,4 @@
-### Olá, pessoal! Tudo bem com vocês? Sou o Márcio Rosa
+### Olá, pessoal! Tudo bem com vocês? 
 
 <div align="center">
   <table>
